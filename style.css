@@ -1,0 +1,43 @@
+
+
+#fonty{
+  font-family: 'Fascinate', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: lightgreen;
+}
+
+p{
+  font-family: 'Sofia', cursive;
+}
+
+.Header{
+  border: 10px dashed lightgreen;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+  align-items: center;
+}
+
+
+body {
+ background-image: url("https://ak0.picdn.net/shutterstock/videos/1861630/thumb/12.jpg");
+ background-color: white;
+}
+
+.pictures{
+display: flex;
+flex-wrap: wrap;
+  justify-content: center;
+}
+
+.info_card{
+  color: #59E83C;
+  text-align: center;
+}
